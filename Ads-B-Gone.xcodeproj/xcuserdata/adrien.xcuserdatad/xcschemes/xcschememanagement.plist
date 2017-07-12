@@ -9,10 +9,20 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>Content Blocker.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>7A120D2F1F16E01D00E99D36</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7A120D481F16E57B00E99D36</key>
 		<dict>
 			<key>primary</key>
 			<true/>
